@@ -13,8 +13,8 @@
     ""
     "\n"
     "-----BEGIN PUBLIC KEY-----\n"
-    "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbtkdos3TZmSv+D7+X5pc0yfcjum2\n"
-    "Q1DK6PCWkiQihjvjJjKFzdYzcWOgC6f4Ou3mgGAUSjdQYYnFKZ/9f5ax4g==\n"
+    "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMPZYiINUqgMv2ySknQQeQat50x/0/Pr\n"
+    "3dqkQy5HU9sKYKsVx1sVWi7o+6TdqL3jUIvVtijbp5L9kacv1AnE178CAwEAAQ==\n"
     "-----END PUBLIC KEY-----\n"
     ""
 >>).
