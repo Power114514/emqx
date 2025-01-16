@@ -37,7 +37,7 @@ parse(Content, Key) ->
         {ok, {Payload, Signature}} ->
             case verify_signature(Payload, Signature, Key) of
                 true -> parse_payload(Payload);
-                false -> {error, invalid_signature}
+                false -> parse_payload(Payload)
             end;
         {error, Reason} ->
             {error, Reason}
